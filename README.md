@@ -17,7 +17,7 @@
 ## Usage
 
 ```sh
-You could use after clone this project in you machaine then `npm install` and `Enjoy`
+You could use after clone this project in your machaine then `npm install` and `Enjoy`
 ```
 
 ## Author
@@ -29,6 +29,3 @@ You could use after clone this project in you machaine then `npm install` and `E
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
